@@ -1,0 +1,4 @@
+http://blog.cuicc.com/blog/2015/07/22/microservices/
+https://www.zhihu.com/question/37808426
+https://www.nginx.com/blog/introduction-to-microservices/
+https://martinfowler.com/articles/microservices.html
